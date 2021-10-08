@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on blockchain techniques and cryptographic problems
+- 🔭 I’m currently working on blockchain techniques, cryptographic problems and privacy-preserving techniques
 - 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate on data security and blockchain
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with privacy preserving techniques
 - 💬 Ask me about blockchain!
 - 📫 How to reach me: L.Xu-11@student.tudelft.nl
 - ⚡ Fun fact: Crazy JOJO fan, pathetic arsenal fan

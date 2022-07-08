@@ -1,11 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-
-**xvllinihao/xvllinihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on blockchain techniques, cryptographic problems and privacy-preserving techniques
+- 🔭 I’m currently working on blockchain techniques, cryptographic problems and privacy-preserving techniques, here is my ![resume](https://rxresu.me/r/UOkUAmca)
 - 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate on data security and blockchain
 - 🤔 I’m looking for help with privacy preserving techniques

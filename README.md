@@ -8,7 +8,7 @@
 - 📫 How to reach me: L.Xu-11@student.tudelft.nl
 - ⚡ Fun fact: Crazy JOJO fan, pathetic arsenal fan
 
-![Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvllinihao&show_icons=true&theme=radical)
+![LI's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvllinihao&theme=dark&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xvllinihao&theme=buddhism&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 

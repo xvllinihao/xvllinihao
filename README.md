@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on data security and blockchain
 - 🤔 I’m looking for help with privacy preserving techniques
 - 💬 Ask me about blockchain!
-- 📫 How to reach me: L.Xu-11@student.tudelft.nl
+- 📫 How to reach me: lixu_work@yahoo.com
 - ⚡ Fun fact: Crazy JOJO fan, pathetic arsenal fan
 
 ![LI's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvllinihao&theme=dark&show_icons=true)

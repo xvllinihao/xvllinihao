@@ -4,7 +4,8 @@
 - 💬 Ask me about blockchain!
 - 📫 How to reach me: lixu_work@yahoo.com
 
-![LI's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvllinihao&theme=dark&show_icons=true)
+
+![LI's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvllinihao&count_private=true&theme=dark&hide_border=true&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xvllinihao&theme=buddhism&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 

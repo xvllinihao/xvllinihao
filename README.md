@@ -1,12 +1,8 @@
 ### Hi there 
 
-- 🔭 I’m currently working on blockchain techniques, cryptographic problems and privacy-preserving techniques, here is my ![resume](https://rxresu.me/r/UOkUAmca)
-- 🌱 I’m currently learning blockchain
-- 👯 I’m looking to collaborate on data security and blockchain
-- 🤔 I’m looking for help with privacy preserving techniques
+- 🔭 I’m currently working on anomaly dectection of windows log data
 - 💬 Ask me about blockchain!
 - 📫 How to reach me: lixu_work@yahoo.com
-- ⚡ Fun fact: Crazy JOJO fan, pathetic arsenal fan
 
 ![LI's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvllinihao&theme=dark&show_icons=true)
 

@@ -5,5 +5,5 @@
 - 📫 How to reach me: lixu_work@yahoo.com
 
 
-![metrics](./github-metrics.svg)
+<img src="./github-metrics.svg"  height=100% width=100%>
 
